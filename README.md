@@ -1,0 +1,1 @@
+![Schematic](/schematic.jpg)
